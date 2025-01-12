@@ -12,8 +12,8 @@ I am a Computer Science student passionate about building software that makes an
 - **Movie Recommendation System**: Created a movie recommender system using collaborative filtering techniques.
 
 ## 📫 Let's Connect
-- LinkedIn: [LinkedIn](https://linkedin.com/in/your-profile)
-- Email: [Your Email](mailto:your-email@example.com)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-profile)
+- Email: [Email](mailto:mmaaz@upei.ca)
 
 Feel free to explore my repositories and let me know if you have any questions or suggestions! 🚀
 
