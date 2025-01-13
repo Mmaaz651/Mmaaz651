@@ -10,6 +10,7 @@ I am a Computer Science student passionate about building software that makes an
 ## 🚀 Projects
 - **Car Price Prediction**: Built a machine learning model to predict car prices based on features like fuel type, seller type, and transmission.
 - **Movie Recommendation System**: Created a movie recommender system using collaborative filtering techniques.
+- **Customized Monopoly Game**: Developed a personalized Monopoly game with custom rules and board design.
 
 ## 📫 Let's Connect
 - [LinkedIn Profile](https://www.linkedin.com/in/muhammad-maaz-811771247/)
