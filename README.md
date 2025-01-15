@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maaz!
+# Hi, I'm Maaz!
 
 I am a Computer Science student passionate about building software that makes an impact. My focus is on **Data Science**, **Machine Learning**, and **Software Development**.
 
