@@ -7,8 +7,8 @@ I am a Backend Developer with experience in Python and Java, specializing in bui
 
 ## Projects
 - **Car Price Prediction**: Built a machine learning model to predict car prices based on features like fuel type, seller type, and transmission.
-- **Movie Recommendation System**: Created a movie recommender system using collaborative filtering techniques.
 - **Customized Monopoly Game**: Developed a personalized Monopoly game with custom rules and board design.
+- **Movie Recommendation System**: Created a movie recommender system using collaborative filtering techniques.
 - **And More**
 
 ## Let's Connect
